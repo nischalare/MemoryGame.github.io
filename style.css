@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+}
+
+/* (1) We are making a '3x4' square grid.
+          */
+/* (2) Please open the JavaScript  file to continue our discussion*/
+.grid {
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+  padding: 1px;
+  box
+}
+
+h1{
+  color: #e04300;
+}
+
+h3{
+  color: #940000;
+}
+
+h4{
+  color: #a8a802;
+}
+
+ul{
+  list-style-position: inside;
+  color: #190057;
+}
